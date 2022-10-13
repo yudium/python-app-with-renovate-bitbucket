@@ -3,5 +3,5 @@ module.exports = {
   username: process.env.USERNAME,
   password: process.env.PASSWORD,
   baseDir: `${process.env.BITBUCKET_CLONE_DIR}/renovate`,
-  repositories: ["yudibelanja/dob-bitbucket-python-renovate"],
+  repositories: ["your-bitbucket-name/your-repo-name"],
 };
