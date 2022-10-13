@@ -4,7 +4,7 @@ Update our app dependencies by create pull request everytime new release is avai
 
 # How to use
 
-1. Copy files from this repo to your
+1. Copy files from this repo to your except requirements.txt that just for sample.
 1. Open config.js and change this line:
 
 ```
